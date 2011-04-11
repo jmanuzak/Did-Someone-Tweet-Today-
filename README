@@ -1,0 +1,5 @@
+This is a silly webapp that just displays Yes/No (in 120pt font) in response to the question "Has Conan O'Brien tweeted today?"  This was created when Conan O'Brien had joined twitter, but had not yet tweeted (which gained mainstream media attention).
+
+Really it was an excuse to play with Python + Google app engine.  The project is still live here:  http://www.hasconanobrientweetedtoday.com/
+
+

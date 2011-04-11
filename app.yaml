@@ -1,0 +1,8 @@
+application: <your_GAE_application_id>
+version: 1
+runtime: python
+api_version: 1
+
+handlers:
+- url: /.*
+  script: conan.py
